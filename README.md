@@ -1,4 +1,4 @@
-# IT Service Management
+# IT and Service Management
 - Free University of Bolzano - Faculty of Computer Science	
 - Developer: Heider Jeﬀer
 - Supervisor: Guizzardi Giancarlo
