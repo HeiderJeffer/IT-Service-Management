@@ -1,4 +1,9 @@
 # IT and Service Management
+
+ <body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/IT-and-Service-Management/" alt = "Visitors-Counter"/>
+</body>
+
 - Free University of Bolzano - Faculty of Computer Science	
 - Developer: Heider Jeﬀer
 - Supervisor: Guizzardi Giancarlo
